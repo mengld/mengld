@@ -16,4 +16,5 @@
 水茫茫天地一流殇！**
 
 无锡至太原的列车上, 2022/1/23
-![info](https://github-readme-stats.vercel.app/api?username=mengld&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+![info](https://github-readme-stats.vercel.app/api?username=mengld&show_icons=true&count_private=true&hide=prs&theme=dark)
