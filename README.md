@@ -1,6 +1,6 @@
 # About me
 
-## CODE FOR FUN， PROGRAMMING FOR MEANING.
+## PROGRAMMING FOR FUN, LEARN FROM BEST.
 
 ![info](https://github-readme-stats.vercel.app/api?username=mengld&show_icons=true&count_private=true&hide=prs&theme=dark)
 
